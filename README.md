@@ -13,7 +13,7 @@
 <p><br><br><br><br><br><br><br></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="anii693"></p>
 <br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&amp;theme=dark" alt="anii693"></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&amp;theme=dark" alt="AditiSingh1208"></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%">
 <h3 align="left">Connect with me:</h3>
@@ -26,5 +26,4 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anii693"> </p>
 <hr>
-<p><a href="https://github.com/ANii693">ANii693</a></p>
-<p>Last Edited on: 28/02/2023</p> 
+<p><a href="https://github.com/AditiSingh1208">AditiSingh12083</a></p>
