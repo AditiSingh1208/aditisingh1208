@@ -2,6 +2,11 @@
 
 ### Glad to see you here! 
 
+A tech enthusiast with a strong foundation in full-stack development. Proficient in React.js, Node.js, Express.js, and MongoDB,
+with hands-on experience in building scalable web applications.Skilled in Java, JavaScript, and cloud technologies like Google
+Cloud Platform. Passionate about problem-solving, UI animations (GSAP), and optimizing user experiences. A collaborative team
+player with a keen eye for detail, committed to delivering innovative and efficient solutions.
+
 ###
 
 <div align="center">
