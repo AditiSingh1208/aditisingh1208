@@ -2,7 +2,7 @@
 
 ### Glad to see you here! 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AditiSingh1208&label=Profile%20views&color=0e75b6&style=flat" alt="AditiSingh12 /> 
+  <img src="https://komarev.com/ghpvc/?username=AditiSingh1208&label=Profile%20views&color=0e75b6&style=flat" alt= /> 
 </p>
 
 
