@@ -2,8 +2,9 @@
 
 ### Glad to see you here! 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AditiSingh1208&label=Profile%20views&color=0e75b6&style=flat" alt= /> 
+  <img src="https://komarev.com/ghpvc/?username=AditiSingh1208&label=Profile%20views&color=0e75b6&style=flat" alt="AditiSingh1208" /> 
 </p>
+
 
 
 A tech enthusiast with a strong foundation in full-stack development. Proficient in React.js, Node.js, Express.js, and MongoDB,
