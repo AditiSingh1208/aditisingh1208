@@ -1,7 +1,10 @@
 <h2 align="left">Hi 👋! My name is Aditi Singh</h2>
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AditiSingh1208&label=Profile%20views&color=0e75b6&style=flat" alt="AditiSingh1208" /> 
+</p>
+
 
 A tech enthusiast with a strong foundation in full-stack development. Proficient in React.js, Node.js, Express.js, and MongoDB,
 with hands-on experience in building scalable web applications.Skilled in Java, JavaScript, and cloud technologies like Google
