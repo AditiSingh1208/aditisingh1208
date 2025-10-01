@@ -58,6 +58,13 @@ player with a keen eye for detail, committed to delivering innovative and effici
 
 ###
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AditiSingh1208&theme=darkhub" alt="Trophies" />
+</p>
+
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AditiSingh1208/AditiSingh1208/output/snake.svg" alt="Snake animation" />
