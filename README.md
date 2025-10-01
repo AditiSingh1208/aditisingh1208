@@ -64,6 +64,15 @@ player with a keen eye for detail, committed to delivering innovative and effici
   <img src="https://github-profile-trophy.vercel.app/?username=AditiSingh1208&theme=darkhub" alt="Trophies" />
 </p>
 
+---
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiSingh1208&radius=16&theme=arctic&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</p>
+
+<br/>
+
 
 <br clear="both">
 
